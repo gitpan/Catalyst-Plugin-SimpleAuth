@@ -1,11 +1,11 @@
 --- #YAML:1.0
 name:                Catalyst-Plugin-SimpleAuth
-version:             0.31
-abstract:            ~
+version:             0.32
+abstract:            Simple authentication for Catalyst
 license:             perl
 author:              
     - Leon Brocard <acme@astray.com>
-generated_by:        ExtUtils::MakeMaker version 6.42
+generated_by:        ExtUtils::MakeMaker version 6.44
 distribution_type:   module
 requires:     
     Catalyst::Exception:           0

@@ -3,7 +3,7 @@ use strict;
 use warnings;
 use Digest::SHA1 qw(sha1_hex);
 use base qw/Class::Accessor::Fast/;
-our $VERSION = '0.31';
+our $VERSION = '0.32';
 use NEXT;
 use Catalyst::Exception;
 
@@ -189,6 +189,8 @@ Leon Brocard <acme@astray.com>.
 =head1 COPYRIGHT
 
 Copyright (C) 2008, Leon Brocard
+
+=head1 LICENSE
 
 This module is free software; you can redistribute it or modify it
 under the same terms as Perl itself.
